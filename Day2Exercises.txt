@@ -8,7 +8,10 @@ Exercises Day 2
 	
 	Use relevant data types
 	
-	Povide  argumented constructors  and getters and setters in all the classes
-	
+	Provide  argumented constructors  and getters and setters in all the classes
+	Provide display() method in all the classes to show the all values
 	Test them in the main method
-   
+	
+	Note: Make sure you implement Encapsulation in all the classes
+ 
+ 4. Test polymorphism in the above exercise using variable of Person type
