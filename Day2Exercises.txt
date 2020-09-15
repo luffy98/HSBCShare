@@ -1,0 +1,14 @@
+Exercises Day 2
+
+1. Create a prefilled array of int values  and display highest and lowest values of the array
+2. create and array of city names and display the name of the city having shortest name
+3. create a class Person with attributes name and address
+    create a class Employee as a subclass of Person and having attributes empId and salary
+	create a class Student as a subclass of Person and having attributes studentId and marks
+	
+	Use relevant data types
+	
+	Povide  argumented constructors  and getters and setters in all the classes
+	
+	Test them in the main method
+   
